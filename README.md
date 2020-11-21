@@ -1,2 +1,1 @@
-# quitsocialmedia.club-deprecated
-Deprecated buggy messy version of quitsocialmedia.club
+The up-to-date repositiory is [here](https://github.com/xplosionmind/quitsocialmedia.club)
